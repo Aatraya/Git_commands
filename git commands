@@ -1,0 +1,8 @@
+git init
+git remote add origin <repo link> - to link folder to repo
+git add <file name> - to put file 
+git commit -m <commit-name> -> commit all changes
+git push -u origin master - push origin to master branch
+git push -u origin <branch-name> - push a branch
+git checkout branchname - changing branch
+
